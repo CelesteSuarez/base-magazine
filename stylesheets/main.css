@@ -5521,6 +5521,24 @@ button.close {
 /*========================================
 =             APP CUSTOM                 =
 ========================================*/
+.text-center {
+  text-align: center; }
+
+.black {
+  background-color: black; }
+
+.pull-left {
+  float: left; }
+
+.pull-right {
+  float: right; }
+
+.white {
+  color: white; }
+
+.style-none {
+  list-style: none; }
+
 header {
   background-color: #ffcb00;
   width: 100%; }
@@ -5528,5 +5546,8 @@ header {
 img.circle-right {
   left: 380px;
   position: relative; }
+
+h3.text-center.white {
+  margin: 0; }
 
 /*# sourceMappingURL=main.css.map */
