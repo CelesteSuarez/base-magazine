@@ -3,6 +3,10 @@ header{
 	width: 100%;
 }
 
+.container {
+  width: 970px;
+}
+
 img.circle-right {
   left: 380px;
   position: relative;
@@ -10,9 +14,13 @@ img.circle-right {
 
   h3.text-center.white {
   margin: 0;
+  font-family: Times New Roman;
+
 }
+
 h4.white {
   padding-left: 40px;
+  font-family: Times New Roman;
 }
 
 .abridor {
