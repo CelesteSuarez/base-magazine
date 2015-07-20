@@ -5544,6 +5544,9 @@ button.close {
   width: 50%;
   margin: 0 auto; }
 
+.times-new-roman {
+  font-family: Times New Roman; }
+
 header {
   background-color: #ffcb00;
   width: 100%; }
