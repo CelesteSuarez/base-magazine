@@ -5556,7 +5556,8 @@ header {
 
 img.circle-right {
   left: 380px;
-  position: relative; }
+  position: relative;
+  border-radius: 100%; }
 
 h2.text-center {
   font-family: Sabon; }
