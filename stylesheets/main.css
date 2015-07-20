@@ -5553,6 +5553,9 @@ img.circle-right {
 h3.text-center.white {
   margin: 0; }
 
+h4.white {
+  padding-left: 40px; }
+
 .abridor {
   width: 80%;
   height: 300px; }
