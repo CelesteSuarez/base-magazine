@@ -5555,6 +5555,9 @@ img.circle-right {
   left: 380px;
   position: relative; }
 
+h2.text-center {
+  font-family: Sabon; }
+
 h3.text-center.white {
   margin: 0;
   font-family: Times New Roman; }
