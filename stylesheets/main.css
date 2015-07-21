@@ -5567,6 +5567,11 @@ h4.white {
   padding-left: 40px;
   font-family: Times New Roman; }
 
+.subtitulo.text-center {
+  font-family: Pradell;
+  font-size: 16px;
+  margin-top: 4%; }
+
 .abridor {
   width: 100%;
   margin-top: 5%;
