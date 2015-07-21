@@ -3,6 +3,10 @@ header{
 	width: 100%;
 }
 
+img.logo {
+  left: 20px;
+  position: relative;
+}
 
 img.circle-right {
   left: 380px;
@@ -51,4 +55,6 @@ img.portada{
 
 footer.black {
   margin-top: 2%;
+  width: 100%;
+  padding: 4% 0 4% 0;
 }
