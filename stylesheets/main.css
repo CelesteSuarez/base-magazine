@@ -5551,9 +5551,6 @@ header {
   background-color: #ffcb00;
   width: 100%; }
 
-.container {
-  width: 970px; }
-
 img.circle-right {
   left: 380px;
   position: relative;
@@ -5581,7 +5578,7 @@ img.portada {
 .subtitulo {
   padding: 4%; }
 
-footer {
-  width: 100%; }
+footer.black {
+  margin-top: 2%; }
 
 /*# sourceMappingURL=main.css.map */
