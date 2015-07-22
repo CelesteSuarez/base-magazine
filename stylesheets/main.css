@@ -5551,6 +5551,10 @@ header {
   background-color: #ffcb00;
   width: 100%; }
 
+img.logo {
+  left: 20px;
+  position: relative; }
+
 img.circle-right {
   left: 380px;
   position: relative;
@@ -5586,6 +5590,8 @@ img.portada {
 footer.black {
   margin-top: 2%;
   width: 1170px;
-  padding: 6%; }
+  padding: 6%;
+  width: 100%;
+  padding: 4% 0 4% 0; }
 
 /*# sourceMappingURL=main.css.map */
