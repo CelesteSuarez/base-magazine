@@ -21,6 +21,13 @@ img.circle-right {
   border-radius: 100%;
  }
 
+@media screen and (max-width:$screen-phone){
+  img.circle-right{
+    left: 80px;
+  }
+}
+
+
 h2.text-center {
   font-family: Sabon;
 }

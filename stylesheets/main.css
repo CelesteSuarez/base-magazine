@@ -5566,6 +5566,9 @@ img.circle-right {
   position: relative;
   border-radius: 100%; }
 
+@media screen and (max-width: 480px) {
+  img.circle-right {
+    left: 80px; } }
 h2.text-center {
   font-family: Sabon; }
 
