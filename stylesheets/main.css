@@ -5584,6 +5584,8 @@ img.portada {
   padding: 4%; }
 
 footer.black {
-  margin-top: 2%; }
+  margin-top: 2%;
+  width: 1170px;
+  padding: 6%; }
 
 /*# sourceMappingURL=main.css.map */
