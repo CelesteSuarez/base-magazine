@@ -35,8 +35,8 @@ h2.text-center {
   h3.text-center.white {
   margin: 0;
   font-family: Times New Roman;
-
 }
+
 
 h4.white {
   padding-left: 40px;
@@ -63,6 +63,14 @@ a {
   @media only screen and (max-device-width: 480px){
 
   } 
+}
+
+@media screen and (max-width:$screen-phone){
+.content-publicidad{
+
+text-align: center;
+  }
+
 }
 
 img.portada{
