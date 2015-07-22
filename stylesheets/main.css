@@ -5599,7 +5599,7 @@ img.portada {
   padding: 4%; }
 
 li.style-none.text-center {
-  display: inline; }
+  display: inline-block; }
 
 footer.black {
   margin-top: 2%;
