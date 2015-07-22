@@ -5551,9 +5551,15 @@ header {
   background-color: #ffcb00;
   width: 100%; }
 
-img.logo {
-  left: 20px;
+.content {
+  left: 30px;
   position: relative; }
+
+img.face:hover {
+  background-color: blue; }
+
+img.twit:hover {
+  background-color: cyan; }
 
 img.circle-right {
   left: 380px;
@@ -5591,6 +5597,9 @@ img.portada {
 
 .subtitulo {
   padding: 4%; }
+
+li.style-none.text-center {
+  display: inline; }
 
 footer.black {
   margin-top: 2%;
