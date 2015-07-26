@@ -5627,4 +5627,84 @@ footer.black {
   width: 100%;
   height: 100%; }
 
+header {
+  background-color: #ffcb00;
+  width: 100%; }
+
+.content {
+  left: 30px;
+  position: relative; }
+
+img.face:hover {
+  background-color: blue; }
+
+img.twit:hover {
+  background-color: cyan; }
+
+img.circle-right {
+  left: 380px;
+  position: relative;
+  border-radius: 100%; }
+
+@media screen and (max-width: 480px) {
+  img.circle-right {
+    left: 80px; } }
+h2.text-center {
+  font-family: Sabon; }
+
+h3.text-center.white {
+  margin: 0;
+  font-family: Times New Roman; }
+
+h4.white {
+  padding-left: 40px;
+  font-family: Times New Roman; }
+
+a {
+  color: blue !important;
+  text-decoration: none;
+  font-weight: 600; }
+
+.subtitulo.text-center {
+  font-family: Pradell;
+  font-size: 16px;
+  margin-top: 4%; }
+
+.abridor {
+  width: 100%;
+  margin-top: 5%;
+  margin-bottom: 5%; }
+
+@media screen and (max-width: 480px) {
+  .content-publicidad {
+    text-align: center; } }
+img.portada {
+  width: 90%; }
+
+.subtitulo {
+  padding: 4%; }
+
+li.style-none.text-center {
+  display: inline-block; }
+
+footer.black {
+  margin-top: 2%;
+  width: 1170px;
+  padding: 6%;
+  width: 100%;
+  padding: 4% 0 4% 0; }
+
+/*Revista*/
+.revista {
+  margin: 0 auto;
+  width: 45%;
+  margin-top: 15%; }
+
+.container-fluid {
+  background-image: url(http://www.4freephotos.com/images/u/Wood-texture511.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%; }
+
 /*# sourceMappingURL=main.css.map */
